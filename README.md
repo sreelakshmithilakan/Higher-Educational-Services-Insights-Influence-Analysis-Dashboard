@@ -1,0 +1,2 @@
+# Higher-Educational-Services-Insights-Influence-Analysis-Dashboard
+This project analyzes the key factors influencing how students choose higher educational institutions. Using structured survey data, the dashboard highlights the psychological, social, and informational drivers that affect decision-making. The analysis supports academic research, institutional planning, and student engagement strategies.
